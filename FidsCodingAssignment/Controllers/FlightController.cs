@@ -136,7 +136,7 @@ namespace FidsCodingAssignment.Controllers
         [Route("delayed")]
         [HttpGet]
         [ProducesResponseType(typeof(List<Client.Model.Flight>), StatusCodes.Status200OK)]
-        public async Task<IActionResult> SearchDelayedFlightsAsync(double minute)
+        public async Task<IActionResult> SearchDelayedFlightsAsync(double? minute)
         {
             var flightManager = new FlightManager(_data, _setting);
 
