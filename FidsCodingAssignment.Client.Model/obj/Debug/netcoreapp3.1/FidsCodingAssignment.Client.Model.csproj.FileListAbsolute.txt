@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Client.Model\obj\Debug\netcoreapp3.1\FidsCodingAssignment.Client.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Client.Model\obj\Debug\netcoreapp3.1\FidsCodingAssignment.Client.Model.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Client.Model\obj\Debug\netcoreapp3.1\FidsCodingAssignment.Client.Model.AssemblyInfo.cs
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Client.Model\obj\Debug\netcoreapp3.1\FidsCodingAssignment.Client.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Client.Model\obj\Debug\netcoreapp3.1\FidsCodingAssignment.Client.Model.sourcelink.json
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Client.Model\bin\Debug\netcoreapp3.1\FidsCodingAssignment.Client.Model.deps.json
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Client.Model\bin\Debug\netcoreapp3.1\FidsCodingAssignment.Client.Model.dll
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Client.Model\bin\Debug\netcoreapp3.1\FidsCodingAssignment.Client.Model.pdb
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Client.Model\obj\Debug\netcoreapp3.1\FidsCodingAssignment.Client.Model.dll
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Client.Model\obj\Debug\netcoreapp3.1\FidsCodingAssignment.Client.Model.pdb

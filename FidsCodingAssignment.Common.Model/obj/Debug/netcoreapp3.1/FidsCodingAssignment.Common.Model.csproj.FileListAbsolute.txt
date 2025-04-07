@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Common.Model\obj\Debug\netcoreapp3.1\FidsCodingAssignment.Common.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Common.Model\obj\Debug\netcoreapp3.1\FidsCodingAssignment.Common.Model.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Common.Model\obj\Debug\netcoreapp3.1\FidsCodingAssignment.Common.Model.AssemblyInfo.cs
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Common.Model\obj\Debug\netcoreapp3.1\FidsCodingAssignment.Common.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Common.Model\obj\Debug\netcoreapp3.1\FidsCodingAssignment.Common.Model.sourcelink.json
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Common.Model\bin\Debug\netcoreapp3.1\FidsCodingAssignment.Common.Model.deps.json
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Common.Model\bin\Debug\netcoreapp3.1\FidsCodingAssignment.Common.Model.dll
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Common.Model\bin\Debug\netcoreapp3.1\FidsCodingAssignment.Common.Model.pdb
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Common.Model\obj\Debug\netcoreapp3.1\FidsCodingAssignment.Common.Model.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Common.Model\obj\Debug\netcoreapp3.1\FidsCodingAssignment.Common.Model.dll
+C:\Users\User\source\repos\HouseTest\FidsCodingAssignment.Common.Model\obj\Debug\netcoreapp3.1\FidsCodingAssignment.Common.Model.pdb

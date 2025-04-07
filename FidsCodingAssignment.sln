@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FidsCodingAssignment", "FidsCodingAssignment\FidsCodingAssignment.csproj", "{6603D3C4-551D-4BFB-9FE4-161BC1AABD8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FidsCodingAssignment.DataAccess", "FidsCodingAssignment.DataAccess\FidsCodingAssignment.DataAccess.csproj", "{5E71B729-CB5E-4F1D-9F3E-F95B5EE4A8A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FidsCodingAssignment.Logic", "FidsCodingAssignment.Logic\FidsCodingAssignment.Logic.csproj", "{C00AA4C1-7FF3-4CE6-8FB9-624B031E30CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FidsCodingAssignment.UnitTest", "FidsCodingAssignment.UnitTest\FidsCodingAssignment.UnitTest.csproj", "{8D2EA6A0-32ED-461F-9DC0-C069DFE16159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FidsCodingAssignment.Client", "FidsCodingAssignment.Client.Model\FidsCodingAssignment.Client.csproj", "{06F13E62-1E8F-424C-B916-96C088E3DDE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FidsCodingAssignment.Common", "FidsCodingAssignment.Common.Model\FidsCodingAssignment.Common.csproj", "{4110C730-EAAC-4083-8341-ABCB96C0FEB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6603D3C4-551D-4BFB-9FE4-161BC1AABD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6603D3C4-551D-4BFB-9FE4-161BC1AABD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6603D3C4-551D-4BFB-9FE4-161BC1AABD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6603D3C4-551D-4BFB-9FE4-161BC1AABD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E71B729-CB5E-4F1D-9F3E-F95B5EE4A8A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E71B729-CB5E-4F1D-9F3E-F95B5EE4A8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E71B729-CB5E-4F1D-9F3E-F95B5EE4A8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E71B729-CB5E-4F1D-9F3E-F95B5EE4A8A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00AA4C1-7FF3-4CE6-8FB9-624B031E30CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00AA4C1-7FF3-4CE6-8FB9-624B031E30CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00AA4C1-7FF3-4CE6-8FB9-624B031E30CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00AA4C1-7FF3-4CE6-8FB9-624B031E30CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2EA6A0-32ED-461F-9DC0-C069DFE16159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2EA6A0-32ED-461F-9DC0-C069DFE16159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2EA6A0-32ED-461F-9DC0-C069DFE16159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2EA6A0-32ED-461F-9DC0-C069DFE16159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F13E62-1E8F-424C-B916-96C088E3DDE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F13E62-1E8F-424C-B916-96C088E3DDE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F13E62-1E8F-424C-B916-96C088E3DDE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F13E62-1E8F-424C-B916-96C088E3DDE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4110C730-EAAC-4083-8341-ABCB96C0FEB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4110C730-EAAC-4083-8341-ABCB96C0FEB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4110C730-EAAC-4083-8341-ABCB96C0FEB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4110C730-EAAC-4083-8341-ABCB96C0FEB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED53443D-F977-41D7-9723-D3E97AC44244}
+	EndGlobalSection
+EndGlobal

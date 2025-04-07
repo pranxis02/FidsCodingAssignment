@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FidsCodingAssignment.Common.Model\FidsCodingAssignment.Common.csproj" />
+    <ProjectReference Include="..\FidsCodingAssignment.DataAccess\FidsCodingAssignment.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>
